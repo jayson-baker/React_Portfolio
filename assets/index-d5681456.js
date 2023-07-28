@@ -11522,7 +11522,7 @@ const Ov = () => {
                 children: "Contact",
               }),
               p.jsx("p", {
-                className: "text-grey-300 py-4",
+                className: "text-white py-4",
                 children: "Submit form below or email me at bakej07@gmail.com",
               }),
             ],
