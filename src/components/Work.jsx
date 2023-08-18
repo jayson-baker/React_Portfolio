@@ -1,7 +1,7 @@
 import React from 'react'
 import CharaCraft from '../assets/CharaCraft.png'
 import FitnessForcast from '../assets/FitnessForcast.png'
-import Placeholder1 from '../assets/Placeholder1.jpg'
+import GamersGuild from '../assets/GamersGuild.png'
 import Placeholder2 from '../assets/Placeholder2.jpg'
 import Placeholder3 from '../assets/Placeholder3.jpg'
 import Placeholder4 from '../assets/Placeholder4.jpg'
@@ -43,14 +43,14 @@ const Work = () => {
                         </div>
                     </div>
                 </div>
-                <div style={{backgroundImage: `url(${Placeholder1})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div'>
+                <div style={{backgroundImage: `url(${GamersGuild})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto card-div'>
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>More To Come!</span>
+                        <span className='text-2xl font-bold text-white tracking-wider'>Gamers Guild</span>
                         <div className='pt-8 text-center'>
-                            <a href="/">
+                            <a href="https://gamers-guild-024e835506e9.herokuapp.com/">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Demo</button>
                             </a>
-                            <a href="/">
+                            <a href="https://github.com/jayson-baker/Gamers_Guild">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-black font-bold text-lg'>Code</button>
                             </a>
                         </div>
